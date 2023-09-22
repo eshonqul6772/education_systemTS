@@ -1,0 +1,42 @@
+.choose__stafe {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+
+
+  .choose__link-box {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    .choose__link {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      padding: 15px 20px;
+      width: 500px;
+      border-radius: 10px;
+      background-color: rgba(244, 244, 244, 1);
+      text-decoration: none;
+
+      span {
+        color: black;
+        font-family: sans-serif;
+        font-weight: bold;
+      }
+
+      p {
+        font-family: sans-serif;
+        color: #4d4846;
+        margin: 10px 0;
+      }
+    }
+  }
+
+}
+
+.home-img img {
+  border-radius: 10px;
+}

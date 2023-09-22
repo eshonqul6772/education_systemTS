@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4973a518-e427-4ea4-88c8-947f1f862a9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumb/Breadcrumb.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumb/Breadcrumb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Breadcrumb/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PageHeader/PageHeader.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PageHeader/PageHeader.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PageHeader/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/private/Subject/List.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/public/Admin/index.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/public/Student/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/public/Teacher/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/education_systemTS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Button/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Loader/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Loader/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/Menu/Menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Menu/Menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/Navbar/Navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Navbar/Navbar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/Navbar/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Navbar/Navbar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Group/Group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Group/List.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Group/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Group/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Resources/Upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Resources/Upload.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Student/Student.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Student/List.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Student/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Student/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Subject/Subject.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Subject/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Subject/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Teacher/Teacher.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Teacher/List.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/Teacher/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/Teacher/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/private/User/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/private/User/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/AdminLogin/AdminLofin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/Admin/Login.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/AdminLogin/AdminLogin.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/Admin/Login.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/AdminLogin/index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/StudentLogin/StudentLogin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/Student/StudentLogin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/StudentLogin/StudentLogin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/Student/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/StudentLogin/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/TeacherLogin/TeacherLogin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/Teacher/TeacherLogin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/TeacherLogin/TeacherLogin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/Teacher/TeacherLogin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/TeacherLogin/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/public/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/public/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/store.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/store.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/private.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/private.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/resources.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/resources.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/CheckRole.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/CheckRole.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VecKoTklQpXYXobymr3s0SWKv9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Eshonqul/Projects/education_system/education_systemTS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Eshonqul\\Projects\\education_system\\education_systemTS\\node_modules\\prettier",
+    "ts.external.directory.path": "D:\\Eshonqul\\Projects\\education_system\\education_systemTS\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Eshonqul\Projects\education_system\education_systemTS\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4973a518-e427-4ea4-88c8-947f1f862a9f" name="Changes" comment="" />
+      <created>1695199924929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695199924929</updated>
+      <workItem from="1695199929673" duration="4973000" />
+      <workItem from="1695365949875" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+.choose__profile {
+  margin-top: 50px;
+  display: flex;
+  gap: 50px;
+  justify-content: space-between;
+
+
+  .choose__link-box {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+
+    h2 {
+      color: black;
+    }
+
+    .choose__link {
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      padding: 15px 20px;
+      width: 500px;
+      border-radius: 10px;
+      background-color: rgba(244, 244, 244, 1);
+      text-decoration: none;
+
+      span {
+        color: black;
+        font-family: sans-serif;
+        font-weight: bold;
+      }
+
+      p {
+        font-family: sans-serif;
+        color: #4d4846;
+        margin: 10px 0;
+      }
+    }
+  }
+
+  h2 {
+    font-size: 40px;
+    margin-block-end: 50px;
+  }
+
+}
+
+.home-img img {
+  border-radius: 15px;
+}
+
+.baner__img {
+  inline-size: 50vw;
+  block-size: 90vh;
+  border: 1px solid #b7b798;
+}

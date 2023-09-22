@@ -1,0 +1,37 @@
+@mixin theme-light {
+  --content-primary: #0f1f34;
+  --content-secondary: #141414;
+  --content-black: #000000;
+  --content-white: #FFFFFF;
+  --content-tertiary: #1212434C;
+  --content-danger: #F61E2E;
+
+  --background-primary: #FFFFFF;
+  --background-secondary: #F0F2F5; // #D7E8E5
+  --background-green: #0a2d56;
+  --background-danger: #F61E2E;
+
+  --btn-primary: #0A2D56;
+  --btn-primary-alt: #FFFFFF;
+  --btn-secondary: #0A2D56; // #D7E8E5
+  --btn-secondary-alt: #FFFFFF;
+  --btn-neutral: #EBEEF2;
+  --btn-neutral-alt: #161624;
+  --btn-danger: #F61E2E;
+  --btn-danger-alt: #FFFFFF;
+  --btn-success: #30AD1B;
+  --btn-success-alt: #FFFFFF;
+
+  --border-primary: rgba(0, 0, 0, 0.1);
+  --border-danger: #F61E2E;
+  --border-success: #0A2D56;
+
+  --radius-sm: 5px;
+  --radius-md: 10px;
+  --radius-lg: 15px;
+
+  --status-active: #30AD1B;
+  --status-active-light: #EDFAEB;
+  --status-noactive: #F61E2E;
+  --status-noactive-light: #FFE7E8;
+}

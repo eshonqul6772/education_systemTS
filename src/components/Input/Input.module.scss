@@ -1,0 +1,50 @@
+.input {
+  width: 400px;
+  height: 50px;
+  padding: 15px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  background-color: var(--background-primary);
+  color: var(--content-primary);
+  border: 1px solid transparent;
+  border-radius: var(--radius-sm);
+
+
+  &--focused {
+    border-color: var(--border-success);
+    outline-color: #003681;
+  }
+
+  &--state {
+    &-default {
+      border-color: var(--border-primary);
+    }
+
+    &-success {
+      border-color: var(--border-success);
+    }
+
+    &-error {
+      border-color: var(--border-danger);
+    }
+  }
+
+  &:disabled {
+    cursor: not-allowed;
+  }
+
+  &-label{
+    color: black;
+    margin-bottom: 10px;
+
+    &:after{
+      content: '*';
+      color: red;
+    }
+  }
+}
+
+.message {
+  color: var(--content-danger);
+}

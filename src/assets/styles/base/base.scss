@@ -1,0 +1,90 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  vertical-align: baseline;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: rgb(227, 221, 221);
+  
+}
+
+
+.containers{
+  width: 1540px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.dashboard{
+  display: flex;
+  justify-content: space-between;
+}
+
+.table__box{
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+
+  .edit__btn {
+    border-radius: 5px;
+    background: #c0dfea;
+    color: #01384d;
+    border: none;
+    padding: 6px;
+    font-size: 25px;
+  }
+}
+
+
+a {
+  text-decoration: none;
+  outline: none;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  background: #fff;
+  border: 0;
+  outline: none;
+}
+
+form {
+  width: 100%;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  border: 1px solid var(--content-primary);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--content-primary);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--content-primary);
+}
+
